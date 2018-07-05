@@ -14,4 +14,4 @@ console.log(tempConversion(userTemp));
 // print results to the DOM
 document.write(`<br/><br/>Temperature in Fahrenheit: ${userTemp}</br>Temperature in Celsius: ${tempConversion(userTemp)}`);
 
-
+console.log(test);
