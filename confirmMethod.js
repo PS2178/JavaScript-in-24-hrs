@@ -6,3 +6,8 @@ if (!answer){
 }else {
   document.writeln('You chose correctly');
 }
+
+// if cancel is selected the returned value is null
+var promptResult = prompt('Input some data', 'place text here');
+console.log(promptResult);
+// document.write(promptResult);
